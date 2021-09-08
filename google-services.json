@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "161053987651",
+    "firebase_url": "https://mpaathshala-default-rtdb.firebaseio.com",
+    "project_id": "mpaathshala",
+    "storage_bucket": "mpaathshala.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161053987651:android:6246f8a524a2369d4e55f6",
+        "android_client_info": {
+          "package_name": "com.example.MyApplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161053987651-9mhj6qqkcv4l078d68pc8aupm6ulfueb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUOIu4Z9_09zODeRkwGkKWhTq9MLpBOtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161053987651-9mhj6qqkcv4l078d68pc8aupm6ulfueb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

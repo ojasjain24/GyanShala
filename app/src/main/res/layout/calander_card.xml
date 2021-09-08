@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="10dp"
+    app:cardCornerRadius="10dp"
+    android:id="@+id/employeeLayout"
+    android:layout_margin="10dp">
+
+    <LinearLayout
+        android:paddingTop="10dp"
+        android:paddingBottom="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#7CADC1"
+        android:orientation="vertical"
+        android:paddingLeft="20dp"
+        android:paddingStart="20dp"
+        tools:ignore="RtlSymmetry">
+
+            <TextView
+                android:id="@+id/up"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Subject Name"
+                android:layout_weight="1"
+                android:textStyle="bold"
+                android:textColor="@color/black"/>
+            <TextView
+                android:id="@+id/down"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Time1 - Time2"/>
+
+        </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>
